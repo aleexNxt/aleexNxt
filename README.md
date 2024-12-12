@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aleexNxt
-- 👀 I’m interested in coding, riding bikes
-- 🌱 I’m currently learning Vue3 and Spring Boot
-- 💞️ I’m looking to collaborate on Projects in my Company
-- 😄 Pronouns: höää??
+- 👋 Hi, I’m @aleexNxt, 20 y/o, apprentice @LHIND
+
+- 👀 I’m interested in Frontend Development(@Params Flutter, Angular) and RestAPIs (@Params Golang).
+- 💞️ I’m looking to collaborate on Projects in my Company.
 
 <!---
 aleexNxt/aleexNxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
